@@ -1,11 +1,13 @@
 # Hey there, I'm Ireland 👋
 
-I'm a Computer Science and Mathematics student at University of Victoria, currently diving deeper into full-stack development, data analytics, and how tech can actually make people's lives better.
+I am a fourth year **Computer Science and Mathematics** student at the University of Victoria, currently diving deeper into full-stack development and algorithmic research in graph theory.
 
-I’ve worked in finance (title insurance + banking), and now I’m focused on building the skills that will help me transition into software engineering and data-related roles.
+With a professional experience in finance (title insurance and banking) and a strong background in algorithms, optimization, and full-stack development, I enjoy finding and solving problems, bridging the gap between rigorous analytical thinking and hands-on software development.
 
-## 🛠 Tech I’ve been using
-- **Languages:** Python, Java, HTML/CSS, JavaScript, C++, C
+
+- ## 🛠 Tech Stack
+- **Languages:** Python, Java, JavaScript, C++, C, SQL, HTML/CSS
+- **Libraries & Frameworks:** SciPy, pandas, React, TypeScript
 - **Tools:** Git, VS Code, Jupyter, R
 
 ## 📫 Let's connect
