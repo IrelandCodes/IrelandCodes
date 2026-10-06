@@ -2,8 +2,7 @@
 
 I am a fourth year **Computer Science and Mathematics** student at the University of Victoria, currently diving deeper into full-stack development and algorithmic research in graph theory.
 
-With a professional experience in finance (title insurance and banking) and a strong background in algorithms, optimization, and full-stack development, I enjoy finding and solving problems, bridging the gap between rigorous analytical thinking and hands-on software development.
-
+Coming from a background in finance with a strong foundation in algorithms and theory, I like taking complex conceptual problems and building practical, working solutions for them.
 
 - ## 🛠 Tech Stack
 - **Languages:** Python, Java, JavaScript, C++, C, SQL, HTML/CSS
