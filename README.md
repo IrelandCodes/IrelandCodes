@@ -4,16 +4,9 @@ I'm a Computer Science and Mathematics student at University of Victoria, curren
 
 I’ve worked in finance (title insurance + banking), and now I’m focused on building the skills that will help me transition into software engineering and data-related roles.
 
-## 💻 What I'm up to
-- 📚 Learning SQL and Power BI to level up my data skills
-- 🧪 Building projects with Python (and occasionally Java)
-- 🎨 Playing with HTML/CSS/JavaScript for my portfolio
-- 🧠 Working on a Human-Computer Interaction project focused on how technology can support real community needs
-
 ## 🛠 Tech I’ve been using
-- **Languages:** Python, Java, HTML/CSS, JavaScript
-- **Tools:** Git, VS Code, Jupyter, a bit of R from stats courses
-- **Currently exploring:** SQL, Power BI, React
+- **Languages:** Python, Java, HTML/CSS, JavaScript, C++, C
+- **Tools:** Git, VS Code, Jupyter, R
 
 ## 📫 Let's connect
 - [LinkedIn](https://www.linkedin.com/in/ireland-stevens/)
